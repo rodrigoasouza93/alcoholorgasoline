@@ -1,16 +1,24 @@
-# alcool_ou_gasolina
+# Álcool ou Gasolina
 
-A new Flutter project.
+Uma aplicação desenvolvida em flutter para permitir o usuário efetuar o cálculo de qual combustível é mais vantajoso para abastecer o carro, sendo eles álcool ou gasolina.
 
-## Getting Started
+## Telas da aplicação
 
-This project is a starting point for a Flutter application.
+### Estado inicial da aplicação
 
-A few resources to get you started if this is your first Flutter project:
+- [Estado inicial da aplicação](https://github.com/rodrigoasouza93/alcoholorgasoline/blob/master/apk/screens/initialstate.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Validação de campos vazios
+
+- [Validação de campos vazios](https://github.com/rodrigoasouza93/alcoholorgasoline/blob/master/apk/screens/emptyfields.jpg)
+
+
+### Validação de valores inválidos
+
+- [Validação de campos com valores inválidos](https://github.com/rodrigoasouza93/alcoholorgasoline/blob/master/apk/screens/fieldValidation.jpg)
+
+
+### Resultado do cálculo
+
+- [Resultado do cálculo](https://github.com/rodrigoasouza93/alcoholorgasoline/blob/master/apk/screens/result.jpg)
